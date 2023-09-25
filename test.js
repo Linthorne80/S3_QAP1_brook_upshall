@@ -1,3 +1,6 @@
+//npm install lodash
+
+
 const _ = require('lodash');
 
 // Function to test
